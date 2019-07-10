@@ -64,7 +64,7 @@ public class CustomRealm extends AuthorizingRealm {
     /**
      * @Description: 用户登录的时候调用
      * @author: panboyang
-     * @date :2019-07-10 11:33:55
+     * @date :2019-07-10 11:33:55ll
      * @params: No such property: code for class: Script1
      */
     @Override
